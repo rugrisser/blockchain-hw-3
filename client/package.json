@@ -1,0 +1,12 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Blockchain HW-3 client",
+  "main": "index.js",
+  "author": "Vyacheslav Ryzhkov",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.8.1",
+    "web3": "^4.2.2"
+  }
+}
